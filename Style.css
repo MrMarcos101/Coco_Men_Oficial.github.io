@@ -1,0 +1,172 @@
+body{font-family:'Times New Roman', Times, serif;}
+
+nav{ 
+    padding: auto   ;
+    color: white;
+    background-color: rgb(31, 31, 31);
+    text-align: center;
+    
+    }
+
+.nav-link{
+    border-radius: 10%;
+color: antiquewhite;
+
+}
+
+.nav-link:hover{color: aliceblue;}
+.nav-link:active{
+
+background-color: aliceblue;
+    color: black;
+   border-radius: 10px;}
+
+.Centrar{margin:20px;
+text-align: center;
+margin-right: 130px;
+color: black;
+text-shadow: gray 3px 2px 5px;
+}
+
+h1{font-size: 980%;
+text-align: center;
+margin: 100px;
+
+}
+
+
+body{
+background-color: white;
+}
+
+.dropdown-item{
+width: auto;
+height: auto;
+}
+
+
+
+
+a{
+    text-decoration: none;
+margin: 10px;
+  color: aliceblue;
+}
+
+
+#MAS{
+margin: auto;
+text-align: center;
+}
+
+  
+
+#COCO{
+ font-family:'Times New Roman', Times, serif;
+    border-bottom-style: groove;
+font-size: 400%;
+text-align: center;
+margin: 15px;
+color: black;
+text-shadow: gray 3px 2px 5px;
+
+}
+
+#ofrece{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 15px;
+    color: black;
+    text-shadow: gray 3px 2px 5px;
+    
+}
+
+
+footer{
+background-color: rgb(31, 31, 31) ;
+color: aliceblue;
+border-top: solid gray 3px;
+padding: 20px;
+margin: auto;
+left: 0;
+bottom: 0;
+width: 100%;
+align-items: end;
+}
+
+  #Inta{
+height: 50px;  
+padding: 5px;
+width: 50px;
+}
+
+
+.Img{
+margin: auto;
+border: solid black;
+padding: 15px;
+
+}
+
+.logos{
+  width: 50px;
+  height: 50px;
+  
+}
+
+/* Css de lista de reloj */
+
+#Venta{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+margin: 15px;
+
+}
+
+.card{
+border: solid rgb(31, 31, 31);
+
+}
+
+.botones{
+border-radius: 15px;
+border: solid rgb(31, 31, 31) 2px;
+}
+.botones:hover{
+  border-radius: 15px;
+  border: solid rgb(31, 31, 31) 2px;
+  color:white;
+  background-color: black;
+  }
+
+.a{
+
+color:black
+}
+.col1{
+border-right: solid 2px;
+justify-content: center;
+align-items: center;
+display: flex;
+font-weight: bold;
+font-size: x-large;
+}
+.col2{
+border-right: solid 2px;
+height: 252px;
+justify-content: center;
+align-items: center;
+display: flex;
+font-weight: bold;
+font-size: x-large;
+}
+
+.col3{
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight: bold;
+font-size: x-large;
+}
+
